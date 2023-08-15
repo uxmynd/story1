@@ -29,3 +29,8 @@
   padding: 12px 24px;
 }
 /*comment*/
+.storybook-button--test{
+border-radius: var(--rounding, 8px);
+border: 1px solid var(--primary, #3051C5);
+background: var(--color-white, #FFF);
+}
